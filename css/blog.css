@@ -14,15 +14,16 @@ html {
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 }
 
 .col-lg-4 {
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
-    background-color: chartreuse;
-    padding-left: 30px;
+    /* background-color: chartreuse; */
+    padding-left: 20px;
+    padding-left: 15px;
     padding-bottom: 20px;
 }
 
@@ -391,14 +392,14 @@ button, button[type=submit], input[type=submit] {
         -ms-flex: 0 0 100%;
         flex: 0 0 100%;
         max-width: 100%;
-        background-color: blueviolet;
+        /* background-color: blueviolet; */
     }
 
     .col-lg-4 {
         -ms-flex: 0 0 100%;
         flex: 0 0 100%;
         max-width: 100%;
-        background-color: chartreuse;
+        /* background-color: chartreuse; */
         padding-left: 15px;
         padding-right: 15px;
         padding-bottom: 20px;
